@@ -1,5 +1,7 @@
 # Retro360
 
+*This is just hosting the app download/installer, not the source code
+
 Xbox 360 RGH/Jtag modding tool. Mainly focused on single player/offline games. 
 
 Info:
