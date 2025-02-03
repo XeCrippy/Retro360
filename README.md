@@ -11,12 +11,3 @@ Info:
 * This is a work in progress and very incomplete at the moment
 
 <a href="https://gyazo.com/03e4c17279e262f0e4600a48f89919b4"><img src="https://i.gyazo.com/03e4c17279e262f0e4600a48f89919b4.png" alt="Image from Gyazo" width="1919"/></a>
-
- <h2>YouTube Video</h2>
-    <iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/VIDEO_ID" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-    </iframe>
