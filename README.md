@@ -12,4 +12,5 @@ Info:
 
 <a href="https://gyazo.com/03e4c17279e262f0e4600a48f89919b4"><img src="https://i.gyazo.com/03e4c17279e262f0e4600a48f89919b4.png" alt="Image from Gyazo" width="1919"/></a>
 
-https://m.youtube.com/watch?v=vDJUrYX6aY8
+# Video
+[![Retro 360](https://img.youtube.com/vi/vDJUrYX6aY8/0.jpg)](https://m.youtube.com/watch?v=vDJUrYX6aY8"Retro 360")
