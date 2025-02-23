@@ -10,6 +10,14 @@ Info:
 * The main memory/rpc library is pure c++ and uses socket connection and no xbox sdk libraries. This limits some things but I have most things working with the help of JRPC2.xex. It will still require xbdm.xex and JRPC2.xex as plugins and it is using jrpc on the console side for function calls and some of the console commands like XNotify and GetCpuKey.
 * This is a work in progress and very incomplete at the moment
 
+# Achievement Unlocker 
+* Pulls achievements data into a listview
+* Double click an achievement to unlock
+* Works for all games
+* Unlock all achievements for any game
+* Unlock all avatar awards for any game
+* Unlock all gamer pics for any game 
+
 <a href="https://gyazo.com/03e4c17279e262f0e4600a48f89919b4"><img src="https://i.gyazo.com/03e4c17279e262f0e4600a48f89919b4.png" alt="Image from Gyazo" width="1919"/></a>
 
 # Video
