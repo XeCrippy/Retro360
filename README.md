@@ -23,3 +23,6 @@ Info:
 # Video
 
 [![Retro 360](https://img.youtube.com/vi/LpZVvPQfKbU/0.jpg)](https://m.youtube.com/watch?v=LpZVvPQfKbU "Retro 360")
+
+# Discord
+https://discord.gg/gq85bkQjMm
