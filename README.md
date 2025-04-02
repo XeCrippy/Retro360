@@ -3,6 +3,12 @@
 # Retro360 WinUI C++
 Xbox 360 RGH/Jtag modding tool. Mainly focused on single player/offline games. 
 
+Current Features:
+* Achievement Manager - Unlock all achievements, unlock ndividual achievements (optionally with custom timestamp), unlock all avatar awards, unlock all gamer pics
+* File Manager - Browse, launch, send, and receive files/directories
+* Memory Search - cheat engine style search tool inspired by XeClutch's Xbox 360 Cheat Engine
+* Some random game mods. Focusing mainly on single player games and games that haven't already been modded to death
+
 Info:
 * Using WinUI 3 in Visual Studio 2022 preview written in C++.
 * This is mostly educational, trying to learn more about c++ coming from c#
@@ -22,7 +28,7 @@ Info:
 
 # Video
 
-[![Retro 360](https://img.youtube.com/vi/LpZVvPQfKbU/0.jpg)](https://m.youtube.com/watch?v=LpZVvPQfKbU "Retro 360")
+[![Retro 360](https://img.youtube.com/vi/svXJZWc4uVg/0.jpg)](https://m.youtube.com/watch?v=svXJZWc4uVg "Retro 360")
 
 # Discord
 https://discord.gg/gq85bkQjMm
