@@ -28,4 +28,4 @@ Info:
 
 # Video
 
-[![Retro 360](https://img.youtube.com/vi/svXJZWc4uVg/0.jpg)](https://m.youtube.com/watch?v=svXJZWc4uVg "Retro 360")
+[![Retro 360](https://img.youtube.com/vi/gZdKIunF-CM/0.jpg)](https://m.youtube.com/watch?v=gZdKIunF-CM "Retro 360")
