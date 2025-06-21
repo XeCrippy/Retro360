@@ -3,10 +3,12 @@
 # Retro360 WinUI C++
 Xbox 360 RGH/Jtag modding tool. Mainly focused on single player/offline games. 
 
+This project started out just for testing. I was making a c++ version of JRPC and testing on a few different UI frameworks. Originally was using Dear ImGui but liked the look and feel of WinUI better. 
+
 Current Features:
-* Achievement Manager - Unlock all achievements, unlock ndividual achievements (optionally with custom timestamp), unlock all avatar awards, unlock all gamer pics
+* Achievement Manager - Unlock all achievements, unlock individual achievements (optionally with custom timestamp), unlock all avatar awards, unlock all gamer pics
 * File Manager - Browse, launch, send, and receive files/directories
-* Memory Search - cheat engine style search tool inspired by XeClutch's Xbox 360 Cheat Engine
+* Memory Search - cheat engine style search tool inspired by XeClutch's Xbox 360 Cheat Engine and X360 Trainer Tool
 * Some random game mods. Focusing mainly on single player games and games that haven't already been modded to death
 
 Info:
@@ -29,3 +31,36 @@ Info:
 # Video
 
 [![Retro 360](https://img.youtube.com/vi/gZdKIunF-CM/0.jpg)](https://m.youtube.com/watch?v=gZdKIunF-CM "Retro 360")
+
+# Current games list
+XBLA:
+* Castle Crashers
+* CS:GO
+* Doritos Crash Course
+* Duke Nukem 3D
+* Galaga Legions DX
+
+Other Games:
+* 007 Legends
+* 50 Cent Blood on the Sand
+* 50 Cent Blood on the Sand Japan version
+* Battlefield Hardline
+* Crackdown
+* Crackdown 2
+* Doom 3 BFG
+* Enemy Territory: Quake Wars
+* GTA San Andreas
+* Left 4 Dead 2
+* Need For Speed Most Wanted (1st one)
+* Resident Evil 6
+* Saints Row
+* Saints Row 2
+* Skyrim
+* Sleeping Dogs
+* Sniper Elite III
+* Sniper Ghost Warrior 2
+* Sonic & SEGA All Stars Racing
+* Sonic & All Stars Racing Transformed
+* Sonic The Hedgehog 2006
+* Sonic Generations
+* Tony Hawk American Wasteland
