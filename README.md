@@ -32,7 +32,7 @@ Info:
 
 [![Retro 360](https://img.youtube.com/vi/gZdKIunF-CM/0.jpg)](https://m.youtube.com/watch?v=gZdKIunF-CM "Retro 360")
 
-# Current games list
+# Current games cheats list
 XBLA:
 * Castle Crashers
 * CS:GO
@@ -55,6 +55,9 @@ Other Games:
 * Resident Evil 6
 * Saints Row
 * Saints Row 2
+* Saints Row The Third
+* Saints Row 4
+* Saints Row Gat Outta Hell
 * Skyrim
 * Sleeping Dogs
 * Sniper Elite III
@@ -64,3 +67,6 @@ Other Games:
 * Sonic The Hedgehog 2006
 * Sonic Generations
 * Tony Hawk American Wasteland
+
+PC Games:
+* FFVII Remake (Latest Steam version)
