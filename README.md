@@ -37,7 +37,7 @@ XBLA:
 * Castle Crashers
 * CS:GO
 * Doritos Crash Course
-* Duke Nukem 3D
+* ~~Duke Nukem 3D~~ Not working properly 
 * Galaga Legions DX
 
 Other Games:
@@ -49,6 +49,8 @@ Other Games:
 * Crackdown 2
 * Doom 3 BFG
 * Enemy Territory: Quake Wars
+* Forza Motorsports 2
+* Forza Motorsports 4
 * GTA San Andreas
 * Left 4 Dead 2
 * Need For Speed Most Wanted (1st one)
