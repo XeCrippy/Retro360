@@ -30,7 +30,7 @@ Info:
 
 # Video
 
-[![Retro 360](https://img.youtube.com/vi/gZdKIunF-CM/0.jpg)](https://m.youtube.com/watch?v=gZdKIunF-CM "Retro 360")
+[![Retro 360](https://img.youtube.com/vi/bdra5yrOUOw-CM/0.jpg)](https://m.youtube.com/watch?v=bdra5yrOUOw-CM "Retro 360")
 
 # Current games cheats list
 XBLA:
