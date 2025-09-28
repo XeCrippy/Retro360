@@ -87,5 +87,3 @@ PC Games:
   - My goal is to dump the stats, use the data to repopulate the struct dynamically with the modded values, then either replace the struct or call the function with the correct data. This way it would work for any game with leaderboards.
  
 * Slowly adding call of duty just to be more of a complete all in one tool. I don't have any interest in cod or making anything new for it at the moment so I will add what I already have in other tools.
-
-* Currently finishing the Forza series and Ride 
