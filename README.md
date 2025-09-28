@@ -25,8 +25,8 @@ Info:
 * Unlock all avatar awards for any game
 * Unlock all gamer pics for any game
 
-
-<a href="https://gyazo.com/03e4c17279e262f0e4600a48f89919b4"><img src="https://i.gyazo.com/03e4c17279e262f0e4600a48f89919b4.png" alt="Image from Gyazo" width="1919"/></a>
+Theme responds to system colors
+<a href="https://gyazo.com/63ac105a19d255d5d74ef983ee30f838"><img src="https://i.gyazo.com/63ac105a19d255d5d74ef983ee30f838.png" alt="Image from Gyazo" width="1920"/></a>
 
 # Video
 
