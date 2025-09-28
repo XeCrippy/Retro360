@@ -39,6 +39,8 @@ XBLA:
 * Doritos Crash Course
 * ~~Duke Nukem 3D~~ Not working properly 
 * Galaga Legions DX
+* Peggle
+* Peggle 2
 
 Other Games:
 * 007 Legends
@@ -51,8 +53,11 @@ Other Games:
 * Enemy Territory: Quake Wars
 * Forza Motorsports 2
 * Forza Motorsports 4
+* Forza Horizon
+* Forza Horizon 2
 * GTA San Andreas
 * Left 4 Dead 2
+* Mortal Kombat 9
 * Need For Speed Most Wanted (1st one)
 * Resident Evil 6
 * Saints Row
