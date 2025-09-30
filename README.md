@@ -3,18 +3,18 @@
 # Retro360 WinUI C++
 Xbox 360 RGH/Jtag modding tool. Mainly focused on single player/offline games. 
 
-This project started out just for testing. I was making a c++ version of JRPC and testing on a few different UI frameworks. Originally was using Dear ImGui but liked the look and feel of WinUI better. 
+This project started out just for testing. I was making a c++ version of JRPC.dll (for RTM tools) and testing on a few different UI frameworks. Originally was using Dear ImGui & D3D11 but liked the look and feel of WinUI better. 
 
 Current Features:
 * Achievement Manager - Unlock all achievements, unlock individual achievements (optionally with custom timestamp), unlock all avatar awards, unlock all gamer pics
-* File Manager - Browse, launch, send, and receive files/directories
+* File Manager - Browse, launch, delete, send, and receive files/directories
 * Memory Search - cheat engine style search tool inspired by XeClutch's Xbox 360 Cheat Engine and X360 Trainer Tool
-* Some random game mods. Focusing mainly on single player games and games that haven't already been modded to death
+* Some random game mods. Focusing mainly on single player games and games that don't have much available for them.
 
 Info:
-* Using WinUI 3 in Visual Studio 2022 preview written in C++.
+* Using WinUI 3 in Visual Studio 2026 Insiders written in C++.
 * This is mostly educational, trying to learn more about c++ coming from c#
-* This is a work in progress and very incomplete at the moment
+* This is a work in progress and pretty incomplete at the moment
 * Achievement Unlocker should be about finished 
 
 # Achievement Unlocker 
