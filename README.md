@@ -80,10 +80,6 @@ PC Games:
   
 # In progress/Future plans
 * Universal Leaderboard editor
-  - Can currently read stats to retrieve the necessary viewId's, coloumnId's, and propertyId's but have not been able to get the function to call successfully when repopulating the struct and calling the function. Either something in the stuct is incorrect or I'm missing something with creating/capturing the session.
-  
-  - Can however hook the function and then walk the pointer chain to manually poke the values but that is on a per game basis as of right now.
-    
-  - My goal is to dump the stats, use the data to repopulate the struct dynamically with the modded values, then either replace the struct or call the function with the correct data. This way it would work for any game with leaderboards.
+  - I have been working on figuring out how people are doing the leaderboard hacks and finally have a working method that should work for most games with leaderboards that are still online. Right now it will hook the function that writes the stats and replace all int32 and int64 values in the stats struct to max or custom values. Will work on other data types next for things like time trials.
  
 * Slowly adding call of duty just to be more of a complete all in one tool. I don't have any interest in cod or making anything new for it at the moment so I will add what I already have in other tools.
