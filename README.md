@@ -26,6 +26,16 @@ Info:
 * Unlock all avatar awards for any game
 * Unlock all gamer pics for any game
 
+# Leaderboard Hacker
+* Should work for mos, if not all, games
+* Enable from the dashboard or in game
+* It will remain hooked until you disable it even when switching games or returning to dashboard
+* Sets all stat fields to their max value
+* Works for time trial leaderboards as well
+* Must get a better score than your previous in order for the leaderboards to update the new stats
+* You won't be able to get 1st if someone has already modded theirs to max values.
+* From testing, it looks like most of the leaderboards are already ruined anyway. 
+
 Theme responds to system colors
 <a href="https://gyazo.com/63ac105a19d255d5d74ef983ee30f838"><img src="https://i.gyazo.com/63ac105a19d255d5d74ef983ee30f838.png" alt="Image from Gyazo" width="1920"/></a>
 
@@ -80,8 +90,4 @@ PC Games:
 * FFVII Remake (Latest Steam version)
   
 # In progress/Future plans
-* Universal Leaderboard editor
-  - ~~I have been working on figuring out how people are doing the leaderboard hacks and finally have a working method that should work for most games with leaderboards that are still online. Right now it will hook the function that writes the stats and replace all int32 and int64 values in the stats struct to max or custom values. Will work on other data types next for things like time trials.~~
-  - ~~The leaderboard hacker is conplete and will be in the next update. It works well so far. You can enable it from the dashboard or in game and it will remain active when you switch games until you disable it. I haven't ran into any games that it doesn't work for yet.~~
- 
 * Slowly adding call of duty just to be more of a complete all in one tool. I don't have any interest in cod or making anything new for it at the moment so I will add what I already have in other tools.
