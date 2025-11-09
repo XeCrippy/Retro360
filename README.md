@@ -1,3 +1,5 @@
+# Create an issue for any bugs found and I will try to fix it. If you're having connection issues then provide as much detailed information as you can. 
+
 *This is just hosting the app download/installer, not the source code
 
 # Retro360 WinUI C++
